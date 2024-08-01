@@ -4,7 +4,7 @@
 # Config version (don't change this value)
 version: 3
 
-# Plugin language (supported: en, fr, pt, zh_CN)
+# Plugin language (supported: en, fr, pt, zh_CN, ja)
 # To use custom messages read the plugin documentation page
 language: en
 
